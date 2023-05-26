@@ -273,6 +273,11 @@ body {
     padding: 20px;
     text-align: center;
 }
+@media (max-width: 767px) {
+    .card2 .img {
+        padding: 20px 0;
+    }
+}
 .card2 .img img {
     width: 14em;
     height: 17em;
